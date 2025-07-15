@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-15T22:58:25 IST" name="Suite" finished-at="2025-07-15T22:58:41 IST" duration-ms="15538">
+    <groups>
+    </groups>
+    <test started-at="2025-07-15T22:58:25 IST" name="Test" finished-at="2025-07-15T22:58:41 IST" duration-ms="15538">
+      <class name="ui_automations.boardTests">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:ui_automations.boardTests@1ce24091]" started-at="2025-07-15T22:58:25 IST" name="launchApp" finished-at="2025-07-15T22:58:27 IST" duration-ms="2449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="boardCreation()[pri:0, instance:ui_automations.boardTests@1ce24091]" started-at="2025-07-15T22:58:27 IST" name="boardCreation" finished-at="2025-07-15T22:58:28 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boardCreation -->
+        <test-method signature="addingLists()[pri:0, instance:ui_automations.boardTests@1ce24091]" started-at="2025-07-15T22:58:28 IST" name="addingLists" finished-at="2025-07-15T22:58:40 IST" duration-ms="11244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingLists -->
+        <test-method signature="removeList()[pri:0, instance:ui_automations.boardTests@1ce24091]" started-at="2025-07-15T22:58:40 IST" name="removeList" finished-at="2025-07-15T22:58:40 IST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeList -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:ui_automations.boardTests@1ce24091]" started-at="2025-07-15T22:58:40 IST" name="closingBrowser" finished-at="2025-07-15T22:58:41 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- ui_automations.boardTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
